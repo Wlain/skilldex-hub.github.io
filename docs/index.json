@@ -1005,7 +1005,7 @@
     {
       "id": "kling-ai-global",
       "type": "mcp",
-      "name": "Kling AI (Global)",
+      "name": "Kling AI Global Plugin",
       "description": "Official hosted image and video generation MCP for Global accounts. OAuth required; generation uses paid personal-workspace credits. Regional accounts and tasks are separate.",
       "author": "Kling AI",
       "tags": [
